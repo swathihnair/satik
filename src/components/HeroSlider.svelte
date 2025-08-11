@@ -10,16 +10,16 @@
       id: 1,
       title: "Spring Collection 2024",
       subtitle: "Elegance Redefined",
-      description: "Discover our latest spring collection featuring elegant  accessories and timeless pieces.",
-      image: "/image/i1.jpg",
+      description: "Discover our latest spring collection featuring elegant dresses, chic accessories, and timeless pieces.",
+      image: "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       cta: "Shop Now"
     },
     {
       id: 2,
       title: "Summer Essentials",
       subtitle: "Bright & Beautiful",
-      description: "Light, airy and vibrant colors perfect for the summer season.",
-      image: "/image/i4.jpg",
+      description: "Light, airy fabrics and vibrant colors perfect for the summer season.",
+      image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       cta: "Explore"
     },
     {
@@ -27,7 +27,7 @@
       title: "Premium Accessories",
       subtitle: "Complete Your Look",
       description: "Handpicked accessories to complement your style and elevate your wardrobe.",
-      image: "/image/i5.jpg",
+      image: "https://images.pexels.com/photos/1375849/pexels-photo-1375849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       cta: "View Collection"
     }
   ];

@@ -26,7 +26,7 @@
     <div class="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
       <div class="{isVisible ? 'animate-slide-up' : 'opacity-0'}">
         <h2 class="text-4xl lg:text-5xl font-serif font-bold text-gray-900 mb-6">
-          About <span class="bg-gradient-to-r from-primary-600 to-rose-500 bg-clip-text text-transparent">Zion Collection</span>
+          About Zion Collection
         </h2>
         <p class="text-lg text-gray-600 mb-6 leading-relaxed">
            ZION Collections is not just a store — it’s an experience crafted especially for women who love to express themselves through the little details that complete a look. As a dedicated ladies’ accessories boutique, ZION celebrates the art of elegance, offering a thoughtfully curated selection of stylish, high-quality accessories that blend tradition with contemporary flair. Our collection includes everything from delicately crafted earrings, bracelets, and statement necklaces to sophisticated handbags, trendy clutches, vibrant scarves, stylish sunglasses, and daily-use essentials like scrunchies, pouches, and hair accessories. Each product is handpicked or designed with care, keeping in mind the modern woman’s desire for individuality, beauty, and comfort

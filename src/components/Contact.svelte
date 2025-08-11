@@ -39,7 +39,7 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-16 {isVisible ? 'animate-slide-up' : 'opacity-0'}">
       <h2 class="text-4xl lg:text-5xl font-serif font-bold text-gray-900 mb-6">
-        Get In <span class="bg-gradient-to-r from-primary-600 to-rose-500 bg-clip-text text-transparent">Touch</span>
+        Get In Touch
       </h2>
       <p class="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
         We'd love to hear from you! Whether you have questions about our collections, 
